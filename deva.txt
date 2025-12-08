@@ -1,1 +1,2 @@
 hello i'm devasena
+devops day 1 git,vs code,github
